@@ -21,5 +21,8 @@
     "react-redux": "^8.0.5",
     "sass": "^1.62.1",
     "typescript": "5.0.4"
+  },
+  "devDependencies": {
+    "@svgr/webpack": "^7.0.0"
   }
 }
